@@ -58,8 +58,8 @@ O conjunto de dados foi obtido no **Kaggle**, sob o nome **Water Potability Data
 O modelo apresentou resultados satisfatórios, com acurácia significativa na detecção de amostras potáveis.  
 *(Substitua os valores abaixo pelos que aparecem no seu notebook)*
 
-- **Decision Tree Accuracy:** XX%  
-- **Random Forest Accuracy:** XX%
+- **Decision Tree Accuracy:** Train: 97.04% , Test: 96.88%
+- **Random Forest Accuracy:** 98.24%
 
 O modelo **Random Forest** obteve o melhor desempenho geral.
 
